@@ -19,7 +19,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.10.0",
     "parcel-bundler": "^1.9.4",
-    "solidity-coverage": "^0.5.5",
+    "solidity-coverage": "^0.5.11",
     "solium": "^1.1.7"
   },
   "scripts": {
